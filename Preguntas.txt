@@ -1,0 +1,97 @@
+**********COMBINATORIA Y PROBABILIDAD**********
+P1. Un grupo de 10 personas se sienta en un banco. ¿Cuál es la probabilidad de que dos personas fijadas de antemano se sienten juntas? (Resultado en decimales redondeado a un dígito)
+
+P2. ¿Cuántos números hay entre 2000 y 3000 que tengan sus cifras diferentes?:
+
+P3. Se emitió un documental sobre terremotos y la frecuencia con que éstos ocurren. El documental incluía un debate sobre la posibilidad de predecir los terremotos. Un geólogo afirmó: En los próximos veinte años, hay dos posibilidades por cada 3 de que ocurra un terremoto en la ciudad de Zed. 
+¿Cuál de las siguientes opciones refleja mejor el significado de la afirmación del geólogo? 
+A) (2/3)*20=13.3, así que entre 13 y 14 años a partir de ahora habrá un terremoto en la Ciudad de Zed.
+B) (2/3) es más que ½  , por lo que se puede estar seguro de que habrá un terremoto en la Ciudad de Zed en algún momento en los próximos 20 años. 
+C) La probabilidad de que haya un terremoto en la Ciudad de Zed en algún momento en los próximos 20 años es mayor que la probabilidad de que no haya ningún terremoto. 
+D) No se puede decir lo qué sucederá, porque nadie puede estar seguro de cuándo tendrá lugar un terremoto.
+
+P4. En una pizzería se puede elegir una pizza básica con dos ingredientes: queso y tomate. También puedes diseñar tu propia pizza con ingredientes adicionales. Se pueden seleccionar entre cuatro ingredientes adicionales diferentes: aceitunas, jamón, champiñones y salami. Jaime quiere encargar una pizza con dos ingredientes adicionales diferentes. 
+¿Cuántas combinaciones diferentes podría seleccionar Jaime? 
+
+P5. ¿De cuántas formas distintas se pueden sentar cinco personas alrededor de una mesa circular?
+
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+**********FUNCIONES Y GRÁFICAS**********
+P1. Obtén la ecuación canónica de la siguiente ecuación de la elipse 3x^2+y^2-24x+39=0
+A) (x-5)^2/4+y^2/8=1 
+B) (x-4)^2/3+y^2/9=1 
+C) (x-2)^2/3+y^2/9=0 
+
+P2. La compañía telefónica de Roberto le cobra 10€ mensuales de cuota y 0.05€ por cada minuto de llamada.
+¿Cuál sería el coste de un mes en el que ha realizado 50 minutos de llamada?
+
+P3. Evalua el siguiente límite 
+lim x-3 
+x^2-9/x^2-5x+6
+
+P4. Se ha trazado una recta tangente a la curva y=x^3, cuya pendiente es 3 y pasa por el punto (0,-2). Hallar el punto de tangencia.
+
+P5. Integrar correctamente lo siguiente: x^2e^xdx
+
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+**********ARITMÉTICA Y ÁLGEBRA**********
+P. Resuelve el siguiente problema de operaciones combinadas usando jerarquía de operaciones. 2-[-4(-4)-12:(-3)]-(5^2*3-1)
+A) -80
+B) -82
+C) 84
+D) 0
+
+P2. Pedro y Anna son pilotos en una conocida aerolinea. Ambos tienen distintos vuelos, pero comparten uno en específico al mismo tiempo en un intervalo de días. Pedro toma ese vuelo cada 8 días y Anna cada 6 días. Si hoy compartieron ese vuelo, ¿Dentro de cuantos días volveran a coincidir ambos pilotos?
+A) 32 días
+B) 48 días
+C) 12 días
+D) 24 días
+
+P3. Andrea tiene 2 pizzas enteras y la mitad de otra más. Por alguna extraña y loca razon su papá le pidió que lo corte en partes iguales dividiendolas en π radianes. Andrea, teniendo en cuenta que πrad = 180°, dividió las pizzas en el respectivo numero de pedazos. ¿Cuántos pedazos le salieron a Andrea despues de cortar las 2 pizzas y media?
+A) 6 pedazos
+B) 4 pedazos
+C) 8 pedazos
+D) 20 pedazos
+
+P4. Resuelve el siguiente problema algebraico. (x+6)(x+3) 
+A) x^2 +18x +18
+B) x^2 + 18
+C) x^2 +9x +18
+D) 2x + 9
+
+P5. Resuelve el siguiente problema algebraico. 2(x^2+5)(x^2+1) 
+A) 2x^2 +12x +10
+B) 2x^4 +6x^3 +12x^2 +3x +10
+C) x^4 +6x^2 +5
+D) 2x^4 +12x^2 +10
+
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+**********GEOMETRÍA**********
+P1. Calcula el perímetro de un hexágono cuyos lados miden 8 cm cada uno.
+
+P2. Calcula el área de un cuadrado cuyos lados miden 10 cm cada uno.
+
+P3. ¿Cuál es el nombre de la siguiente figura? 
+...____...
+../....\..
+./......\.
+/________\
+A) Trapecio Escaleno
+B) Trapecio Rectángulo
+C) Trapecio Isósceles  
+
+P4. ¿Cuánto mide un ángulo llano?
+
+P5. ¿Cuál es el nombre de la siguiente figura según sus ángulos?
+|\
+|.\
+|..\
+|_ .\
+|_|__\
+A) Triángulo Equilatero
+B) Triángulo Acutángulo
+C) Triángulo Escaleno
+D) Triángulo Rectángulo
+
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+**********NO DEJES DE ESTUDIAR**********
